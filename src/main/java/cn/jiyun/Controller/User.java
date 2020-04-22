@@ -16,4 +16,9 @@ public class User {
 
         return "以遵守纪律为荣";
     }
+    
+     public  String get4(){
+
+        return "以特立独行为耻";
+    }
 }
